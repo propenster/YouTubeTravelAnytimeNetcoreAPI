@@ -1,0 +1,67 @@
+{
+  "id": 3,
+  "name": "McDonalds",
+  "slug": "mcdonalds",
+  "description": "This is a very sweet and amazing restaurant in Portland,  Oregon",
+  "keywords": "food, steak, meat, frozen, grill, barbecue",
+  "phone_number": "08109354862",
+  "hotel_email": "support@eateverything.com",
+  "address": "2942 N Lincoln Ave",
+  "opens": "8am",
+  "closes": "2:00am",
+  "city": "Chicago",
+  "state": "IL",
+  "area": "Chicago / Illinois",
+  "postal_code": "60657",
+  "country": "US",
+  "phone": "7738712414",
+  "lat": 41.935137,
+  "lng": -87.662815,
+  "price": 2,
+  "reserve_url": "http://www.eateverything.com/single.aspx?rid=107257",
+  "mobile_reserve_url": "http://mobile.eateverything.com/opentable/?restId=107257",
+  "image_url": "https://www.eateverything.com/img/awsimages/107257.jpg",
+  "reviews": [
+    {
+      "id": 6,
+      "author": "propenster",
+      "email": "jdoe@gmail.com",
+      "body": "This is the first review on Resturant 3",
+      "restaurant_id": 3,
+      "created_at": "2021-03-30T00:00:00",
+      "updated_at": "2021-03-30T00:00:00"
+    },
+    {
+      "id": 7,
+      "author": "propenster",
+      "email": "jdoe@gmail.com",
+      "body": "This is the second review on Resturant 3",
+      "restaurant_id": 3,
+      "created_at": "2021-03-30T00:00:00",
+      "updated_at": "2021-03-30T00:00:00"
+    },
+    {
+      "id": 8,
+      "author": "propenster",
+      "email": "jdoe@gmail.com",
+      "body": "This is the third review on Resturant 3",
+      "restaurant_id": 3,
+      "created_at": "2021-03-30T00:00:00",
+      "updated_at": "2021-03-30T00:00:00"
+    },
+    {
+      "id": 9,
+      "author": "propenster",
+      "email": "jdoe@gmail.com",
+      "body": "This is the fourth review on Resturant 3",
+      "restaurant_id": 3,
+      "created_at": "2021-03-30T00:00:00",
+      "updated_at": "2021-03-30T00:00:00"
+    }
+  ],
+  "created_at": "2021-03-30T00:00:00",
+  "updated_at": "2021-03-30T00:00:00"
+
+
+
+}
